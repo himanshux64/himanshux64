@@ -1,5 +1,5 @@
 ### <h1>Hi, I'm Himanshu Kumar 👋</h1>
- <h3>AI &amp; AI & ML Student  • Frontend Developer</h3>
+ <h3> &amp; AI & ML Student  • Frontend Developer</h3>
 
 ### Building ML Models and  modern Frontend web technologies
 
