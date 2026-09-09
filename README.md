@@ -1,5 +1,5 @@
 ### <h1>Hi, I'm Himanshu Kumar 👋</h1>
- <h3>AI &amp; ML Student • Generative AI Builder • Full-Stack Developer</h3>
+ <h3>AI &amp; AI & ML Student  • Frontend Developer</h3>
 
 ### Building intelligent applications with LLMs, RAG, agents, and modern web technologies
 
