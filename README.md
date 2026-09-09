@@ -1,7 +1,7 @@
 ### <h1>Hi, I'm Himanshu Kumar 👋</h1>
  <h3>AI &amp; AI & ML Student  • Frontend Developer</h3>
 
-### Building intelligent applications with LLMs, RAG, agents, and modern web technologies
+### Building ML Models and  modern Frontend web technologies
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshux64)
@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a **third-year Artificial Intelligence & Machine Learning student** focused on turning AI concepts into useful, end-to-end products. I enjoy working at the intersection of **machine learning, large language models, retrieval systems, intelligent workflows, and full-stack development**.
+I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on turning AI concepts into useful, end-to-end products. I enjoy working at the intersection of **machine learning, Frontend Technologies**.
 
 - 🔭 Building **LLM applications, RAG pipelines, and agentic workflows**
 - 🌱 Deepening my knowledge of **deep learning, NLP, computer vision, and Django**
