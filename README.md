@@ -16,12 +16,10 @@
 
 I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on turning AI concepts into useful, end-to-end products. I enjoy working at the intersection of **machine learning, Frontend Technologies**.
 
-- 🔭 Building **LLM applications, RAG pipelines, and agentic workflows**
-- 🌱 Deepening my knowledge of **deep learning, NLP, computer vision, and Django**
-- 🧩 Working with **LangChain, LangGraph, MERN, FastAPI, and Streamlit**
+
 - ✍️ Sharing AI and ML learnings on **[Medium](https://medium.com/@himanshux64)**
 - 🤝 Open to **internships, collaborations, research projects, and open-source contributions**
-- 💬 Ask me about **Python, ML, RAG, LangChain, LangGraph, and LLM-powered apps**
+- 💬 Ask me about **Python, ML,Frontend tech**
 - ⚡ Fun fact: My GitHub activity usually spikes near project deadlines
 
 > “Learning is never cumulative; it is a movement of knowing which has no beginning and no end.” — Jiddu Krishnamurti
@@ -43,9 +41,7 @@ I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on
 |:--|:--|:--|:--:|
 | 🔢 **Handwritten Digit Classifier** | Uses a convolutional neural network to classify handwritten digits from the MNIST dataset | Python, TensorFlow, Keras | ✅ Built |
 | 📝 **AI Notes Summarizer** | Converts lengthy notes into concise, readable summaries using an LLM-powered workflow | LangChain, LLMs, Streamlit | ✅ Built |
-| 🤖 **ML Model Comparison** | Benchmarks classification algorithms and visualizes their performance on structured datasets | Scikit-learn, Python, Matplotlib | ✅ Built |
-| 🌐 **AI-Assisted MERN App** | Combines a full-stack web experience with intelligent, AI-assisted features | React, Node.js, Express, MongoDB | 🚧 Building |
-| 🧠 **RAG Pipeline** | Retrieves relevant context to produce more grounded, context-aware answers | LangChain, LangGraph, ChromaDB | 🚧 Building |
+
 
 <div align="center">
 
