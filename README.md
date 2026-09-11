@@ -29,7 +29,6 @@ I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on
 | Area | Current Exploration |
 |:--|:--|
 | 🤖 **AI Agents** | Tool use, orchestration, memory, and multi-step workflows |
-| 🔍 **RAG Systems** | Embeddings, vector search, retrieval, context injection, and grounded responses |
 | 🧠 **LLM Engineering** | Prompt design, structured outputs, chaining, evaluation, and reliable AI workflows |
 | 🌐 **AI Web Apps** | Integrating intelligent features into Django, MERN, FastAPI, and Streamlit apps |
 | 👁️ **Deep Learning** | CNNs, RNNs, LSTMs, transformers, NLP, and computer vision |
