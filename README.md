@@ -57,10 +57,7 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=nahilist&theme=dark&hide_border=true"
-       alt="nahilist GitHub Streak Stats" />
-</a>
+![Total Contributions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/nahilist/nahilist/main/contributions.json&style=for-the-badge&logo=github&label=Total%20Contributions)
 
 </div>
 
