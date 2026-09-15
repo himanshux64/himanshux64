@@ -57,12 +57,16 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 
 <div align="center">
 
-![Total Contributions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/nahilist/nahilist/main/contributions.json&style=for-the-badge&logo=github&label=Total%20Contributions)
+<img
+  src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnahilist%2Fnahilist%2Fmain%2Fcontributions.json&style=for-the-badge&logo=github&logoColor=white"
+  alt="Total GitHub Contributions"
+/>
 
 </div>
 
-> **Note:** The contribution total displayed by the streak card is calculated by a third-party service and may differ from GitHub's official contribution count.
+---
 
+## 🕹️ Contribution Graph
 ---
 
 ## 🕹️ Contribution Graph
