@@ -44,7 +44,7 @@ I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on
 
 <div align="center">
 
-### [Explore more projects on my portfolio →](https://portfolio-pi-ten-69.vercel.app/)
+### [Explore more projects on my portfolio →](https://www.github.com/nahilist)
 
 </div>
 
