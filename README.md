@@ -57,24 +57,12 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 
 <div align="center">
 
-<!-- Accurate contribution count -->
 <img
-  src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnahilist%2Fnahilist%2Fmain%2Fcontributions.json&style=for-the-badge&logo=github&logoColor=white"
-  alt="Total GitHub Contributions"
+  src="https://raw.githubusercontent.com/nahilist/nahilist/main/generated/github-streak.svg"
+  alt="Himanshu GitHub Streak"
 />
 
-<br/><br/>
-
-<!-- Contribution Streak with dates -->
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=nahilist&theme=dark&hide_border=true"
-    alt="Himanshu's GitHub Streak"
-  />
-</a>
-
 </div>
-
 ---
 
 ## 🕹️ Contribution Graph
