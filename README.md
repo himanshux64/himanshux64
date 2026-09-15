@@ -56,22 +56,6 @@ I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on
   <img src="https://streak-stats.demolab.com?user=nahilist&theme=dark&hide_border=true" alt="nahilist's GitHub Stats" />
   />
 </a>
-
-
-<br/><br/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahilist&theme=tokyonight"
-  alt="Himanshu Kumar's GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahilist&theme=tokyonight"
-  alt="Himanshu Kumar's repositories by language"
-/>
-
 </div>
 
 ### 🕹️ Contribution Graph
