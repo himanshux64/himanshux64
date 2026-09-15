@@ -1,0 +1,74 @@
+name: Update GitHub Contributions
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get GitHub contribution count
+        id: contributions
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          YEAR_AGO=$(date -u -d "1 year ago" +"%Y-%m-%dT%H:%M:%SZ")
+          NOW=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+
+          RESPONSE=$(curl -s \
+            -H "Authorization: bearer $GH_TOKEN" \
+            -H "Content-Type: application/json" \
+            -X POST \
+            -d "{\"query\":\"query { user(login: \\\"$USERNAME\\\") { contributionsCollection(from: \\\"$YEAR_AGO\\\", to: \\\"$NOW\\\") { contributionCalendar { totalContributions } } } }\"}" \
+            https://api.github.com/graphql)
+
+          COUNT=$(echo "$RESPONSE" | jq -r \
+            '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+
+          echo "GitHub contributions: $COUNT"
+
+          if [ "$COUNT" = "null" ] || [ -z "$COUNT" ]; then
+            echo "Could not fetch contribution count"
+            echo "$RESPONSE"
+            exit 1
+          fi
+
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Create contribution badge JSON
+        env:
+          COUNT: ${{ steps.contributions.outputs.count }}
+        run: |
+          cat > contributions.json <<EOF
+          {
+            "schemaVersion": 1,
+            "label": "Total Contributions",
+            "message": "$COUNT",
+            "color": "2ea44f"
+          }
+          EOF
+
+      - name: Commit updated contribution count
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add contributions.json
+
+          if git diff --cached --quiet; then
+            echo "Contribution count has not changed."
+          else
+            git commit -m "chore: update contribution count"
+            git push
+          fi
