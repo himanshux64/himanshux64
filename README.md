@@ -7,8 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshux64)
 [![Resume](https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yGZ26o7WLiyysw6PWk2mlbnqs5TQLeUf/view?usp=drivesdk)
 
-![Profile Views](https://komarev.com/ghpvc/?username=himanshux64&label=Profile+Views&color=2563EB&style=flat-square)
-![Followers](https://img.shields.io/github/followers/himanshux64?label=Followers&style=flat-square&color=7C3AED)
+![Profile Views](https://komarev.com/ghpvc/?username=nahilist&label=Profile+Views&color=2563EB&style=flat-square)
+![Followers](https://img.shields.io/github/followers/nahilist?label=Followers&style=flat-square&color=7C3AED)
 
 </div>
 
@@ -53,7 +53,7 @@ I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=himanshux64&theme=dark&hide_border=true" alt="himanshux64's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=nahilist&theme=dark&hide_border=true" alt="nahilist's GitHub Stats" />
   />
 </a>
 
@@ -62,13 +62,13 @@ I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on
 
 <img
   width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshux64&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahilist&theme=tokyonight"
   alt="Himanshu Kumar's GitHub statistics"
 />
 
 <img
   width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshux64&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahilist&theme=tokyonight"
   alt="Himanshu Kumar's repositories by language"
 />
 
@@ -77,9 +77,9 @@ I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on
 ### 🕹️ Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshux64/himanshux64/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshux64/himanshux64/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/himanshux64/himanshux64/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahilist/nahilist/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahilist/nahilist/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nahilist/nahilist/output/pacman-contribution-graph.svg">
 </picture>
 
 ## 🤝 Let's Connect
@@ -87,11 +87,10 @@ I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshux64)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshukumar51667@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshukx64@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@himanshux64)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/himanshukumar841226)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/himanshux64)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshux64)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nahilist)
 
 ### 💡 Learning continuously. Building thoughtfully. Creating intelligent software.
 
